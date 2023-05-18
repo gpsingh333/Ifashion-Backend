@@ -1,0 +1,243 @@
+Log whatever you want
+Log whatever you want
+Log whatever you want
+Log whatever you want
+Log whatever you want
+Log whatever you want
+Log whatever you want
+Log whatever you want
+<QueryDict: {'coupon_off': ['0'], 'saved_amount': ['1022'], 'item': ['2'], 'shipping_charges': ['0'], 'is_card_save': ['true'], 'cart': ['17'], 'source_token': ['tok_1EjmOxKEophbZQ2n2RI93Z8y'], 'grand_total': ['122'], 'payment': ['1'], 'is_coupon_applied': ['false'], 'address': ['2'], 'currency': ['usd'], 'coupon_code': [''], 'price': ['1134']}>
+<QueryDict: {'coupon_off': ['0'], 'saved_amount': ['1022'], 'item': ['2'], 'shipping_charges': ['0'], 'is_card_save': ['true'], 'cart': ['17'], 'source_token': ['tok_1EjmOxKEophbZQ2n2RI93Z8y'], 'grand_total': ['122'], 'payment': ['1'], 'is_coupon_applied': ['false'], 'address': ['2'], 'currency': ['usd'], 'coupon_code': [''], 'price': ['1134']}>
+<QueryDict: {'payment': ['2'], 'coupon_off': ['0'], 'source_token': ['tok_1EjmOxKEophbZQ2n2RI93Z8y'], 'currency': ['usd'], 'coupon_code': [''], 'cart': ['17'], 'price': ['1134'], 'is_card_save': ['true'], 'grand_total': ['122'], 'shipping_charges': ['0'], 'address': ['2'], 'is_coupon_applied': ['false'], 'item': ['2'], 'saved_amount': ['1022']}>
+<QueryDict: {'source_token': ['tok_1EjmOxKEophbZQ2n2RI93Z8y'], 'payment': ['2'], 'address': ['2'], 'saved_amount': ['1022'], 'is_coupon_applied': ['false'], 'coupon_code': [''], 'cart': ['17'], 'item': ['2'], 'coupon_off': ['0'], 'price': ['1134'], 'grand_total': ['122'], 'shipping_charges': ['0'], 'currency': ['usd'], 'is_card_save': ['true']}>
+Log whatever you want
+Log whatever you want
+Log whatever you want
+{
+  "account_balance": 0,
+  "address": null,
+  "balance": 0,
+  "created": 1564036885,
+  "currency": null,
+  "default_source": "card_1F00ctKEophbZQ2nQEWCN7Bo",
+  "delinquent": false,
+  "description": null,
+  "discount": null,
+  "email": "admin@gmail.com",
+  "id": "cus_FV0f6Rwf5vPZi7",
+  "invoice_prefix": "3F783455",
+  "invoice_settings": {
+    "custom_fields": null,
+    "default_payment_method": null,
+    "footer": null
+  },
+  "livemode": false,
+  "metadata": {},
+  "name": "admin",
+  "object": "customer",
+  "phone": null,
+  "preferred_locales": [],
+  "shipping": null,
+  "sources": {
+    "data": [
+      {
+        "address_city": null,
+        "address_country": null,
+        "address_line1": null,
+        "address_line1_check": null,
+        "address_line2": null,
+        "address_state": null,
+        "address_zip": null,
+        "address_zip_check": null,
+        "brand": "Visa",
+        "country": "US",
+        "customer": "cus_FV0f6Rwf5vPZi7",
+        "cvc_check": "pass",
+        "dynamic_last4": null,
+        "exp_month": 2,
+        "exp_year": 2023,
+        "fingerprint": "ia6Yzaul9r7CYVWk",
+        "funding": "unknown",
+        "id": "card_1F00ctKEophbZQ2nQEWCN7Bo",
+        "last4": "1111",
+        "metadata": {},
+        "name": "sdfdfsdf@gmail.com",
+        "object": "card",
+        "tokenization_method": null
+      }
+    ],
+    "has_more": false,
+    "object": "list",
+    "total_count": 1,
+    "url": "/v1/customers/cus_FV0f6Rwf5vPZi7/sources"
+  },
+  "subscriptions": {
+    "data": [],
+    "has_more": false,
+    "object": "list",
+    "total_count": 0,
+    "url": "/v1/customers/cus_FV0f6Rwf5vPZi7/subscriptions"
+  },
+  "tax_exempt": "none",
+  "tax_ids": {
+    "data": [],
+    "has_more": false,
+    "object": "list",
+    "total_count": 0,
+    "url": "/v1/customers/cus_FV0f6Rwf5vPZi7/tax_ids"
+  },
+  "tax_info": null,
+  "tax_info_verification": null
+}
+{
+  "account_balance": 0,
+  "address": null,
+  "balance": 0,
+  "created": 1564037205,
+  "currency": null,
+  "default_source": "card_1F00i0KEophbZQ2nJxIpJ0go",
+  "delinquent": false,
+  "description": null,
+  "discount": null,
+  "email": "admin@gmail.com",
+  "id": "cus_FV0koAqnuq61H2",
+  "invoice_prefix": "65DE9A16",
+  "invoice_settings": {
+    "custom_fields": null,
+    "default_payment_method": null,
+    "footer": null
+  },
+  "livemode": false,
+  "metadata": {},
+  "name": "admin",
+  "object": "customer",
+  "phone": null,
+  "preferred_locales": [],
+  "shipping": null,
+  "sources": {
+    "data": [
+      {
+        "address_city": null,
+        "address_country": null,
+        "address_line1": null,
+        "address_line1_check": null,
+        "address_line2": null,
+        "address_state": null,
+        "address_zip": null,
+        "address_zip_check": null,
+        "brand": "Visa",
+        "country": "US",
+        "customer": "cus_FV0koAqnuq61H2",
+        "cvc_check": "pass",
+        "dynamic_last4": null,
+        "exp_month": 11,
+        "exp_year": 2045,
+        "fingerprint": "ia6Yzaul9r7CYVWk",
+        "funding": "unknown",
+        "id": "card_1F00i0KEophbZQ2nJxIpJ0go",
+        "last4": "1111",
+        "metadata": {},
+        "name": "sdfs33d@gmail.com",
+        "object": "card",
+        "tokenization_method": null
+      }
+    ],
+    "has_more": false,
+    "object": "list",
+    "total_count": 1,
+    "url": "/v1/customers/cus_FV0koAqnuq61H2/sources"
+  },
+  "subscriptions": {
+    "data": [],
+    "has_more": false,
+    "object": "list",
+    "total_count": 0,
+    "url": "/v1/customers/cus_FV0koAqnuq61H2/subscriptions"
+  },
+  "tax_exempt": "none",
+  "tax_ids": {
+    "data": [],
+    "has_more": false,
+    "object": "list",
+    "total_count": 0,
+    "url": "/v1/customers/cus_FV0koAqnuq61H2/tax_ids"
+  },
+  "tax_info": null,
+  "tax_info_verification": null
+}
+{
+  "account_balance": 0,
+  "address": null,
+  "balance": 0,
+  "created": 1564037334,
+  "currency": null,
+  "default_source": "card_1F00kZKEophbZQ2nldJPlGnD",
+  "delinquent": false,
+  "description": null,
+  "discount": null,
+  "email": "admin@gmail.com",
+  "id": "cus_FV0mauqRnhtKtF",
+  "invoice_prefix": "9E20D060",
+  "invoice_settings": {
+    "custom_fields": null,
+    "default_payment_method": null,
+    "footer": null
+  },
+  "livemode": false,
+  "metadata": {},
+  "name": "admin",
+  "object": "customer",
+  "phone": null,
+  "preferred_locales": [],
+  "shipping": null,
+  "sources": {
+    "data": [
+      {
+        "address_city": null,
+        "address_country": null,
+        "address_line1": null,
+        "address_line1_check": null,
+        "address_line2": null,
+        "address_state": null,
+        "address_zip": null,
+        "address_zip_check": null,
+        "brand": "Visa",
+        "country": "US",
+        "customer": "cus_FV0mauqRnhtKtF",
+        "cvc_check": "pass",
+        "dynamic_last4": null,
+        "exp_month": 11,
+        "exp_year": 2043,
+        "fingerprint": "ia6Yzaul9r7CYVWk",
+        "funding": "unknown",
+        "id": "card_1F00kZKEophbZQ2nldJPlGnD",
+        "last4": "1111",
+        "metadata": {},
+        "name": "sdfsddgfd@gmail.com",
+        "object": "card",
+        "tokenization_method": null
+      }
+    ],
+    "has_more": false,
+    "object": "list",
+    "total_count": 1,
+    "url": "/v1/customers/cus_FV0mauqRnhtKtF/sources"
+  },
+  "subscriptions": {
+    "data": [],
+    "has_more": false,
+    "object": "list",
+    "total_count": 0,
+    "url": "/v1/customers/cus_FV0mauqRnhtKtF/subscriptions"
+  },
+  "tax_exempt": "none",
+  "tax_ids": {
+    "data": [],
+    "has_more": false,
+    "object": "list",
+    "total_count": 0,
+    "url": "/v1/customers/cus_FV0mauqRnhtKtF/tax_ids"
+  },
+  "tax_info": null,
+  "tax_info_verification": null
+}
